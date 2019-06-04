@@ -5,5 +5,4 @@ print('sdaaaaaaaaaadasdasdasdsa')
 print('sdaaaaaaaaaadasdasdasdsa')
 print('sdaaaaaaaaaadasdasdasdsa')
 print('sdadasdfgddwweea')
-print('sdadasdfgddwweea')
-print('sdadasdfgddwweea')
+
